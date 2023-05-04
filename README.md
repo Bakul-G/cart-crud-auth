@@ -9,6 +9,7 @@ Passport.js implements a local strategy for authentication, and authentication e
 
 ## Technologies/Frameworks used 
 * EJS
+* CSS
 * JavaScript
 * Node.Js
 * Express.Js
